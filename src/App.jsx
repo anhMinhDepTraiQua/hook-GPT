@@ -1,11 +1,10 @@
-import { useState } from 'react'
 import './App.css'
-
+import ClickQuest from './components/ClickQuest'
 function App() {
 
   return (
     <>
-      
+      <ClickQuest />
     </>
   )
 }
